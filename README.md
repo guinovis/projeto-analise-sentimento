@@ -23,3 +23,4 @@ Utilizar inteligência artificial para automatizar a análise de sentimentos e a
 
 Em desenvolvimento.
 Projeto de IA para análise de sentimentos de avaliações de clientes.
+
